@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "https://databreach.io",
+    "https://databreach.io/breaches/ericsson-inc-discloses-data-breach-affecting-15661-individuals",
+    "https://databreach.io/breaches/trizetto-provider-solutions-confirms-data-breach-affecting-3-4-million-individuals",
+    "https://databreach.io/breaches/shinyhunters-claims-vertex-inc-data-breach-affecting-2-million-records",
+    "https://databreach.io/news/stryker-confirms-global-network-disruption-following-iran-linked-cyberattack",
+    "https://databreach.io/breaches/verifone-denies-breach-following-handala-hack-claims",
+    "https://databreach.io/breaches/tektreeinc-breach-claim-surfaces-weeks-after-february-ransomware-attack"
+  ],
+  "url_first_seen": {
+    "https://databreach.io": "2026-03-11T14:17:41.098816",
+    "https://databreach.io/breaches/ericsson-inc-discloses-data-breach-affecting-15661-individuals": "2026-03-11T14:17:41.098816",
+    "https://databreach.io/breaches/trizetto-provider-solutions-confirms-data-breach-affecting-3-4-million-individuals": "2026-03-11T14:17:41.098816",
+    "https://databreach.io/breaches/shinyhunters-claims-vertex-inc-data-breach-affecting-2-million-records": "2026-03-11T14:17:41.098816",
+    "https://databreach.io/news/stryker-confirms-global-network-disruption-following-iran-linked-cyberattack": "2026-03-13T04:25:43.500130",
+    "https://databreach.io/breaches/verifone-denies-breach-following-handala-hack-claims": "2026-03-13T04:25:43.500130",
+    "https://databreach.io/breaches/tektreeinc-breach-claim-surfaces-weeks-after-february-ransomware-attack": "2026-03-13T04:25:43.500130"
+  },
+  "metadata": {
+    "created_at": "2026-03-11T14:17:23.912902",
+    "last_updated": "2026-03-13T04:25:43.500137",
+    "total_urls": 7
+  }
+}
