@@ -6,7 +6,11 @@
     "https://databreach.io/breaches/shinyhunters-claims-vertex-inc-data-breach-affecting-2-million-records",
     "https://databreach.io/news/stryker-confirms-global-network-disruption-following-iran-linked-cyberattack",
     "https://databreach.io/breaches/verifone-denies-breach-following-handala-hack-claims",
-    "https://databreach.io/breaches/tektreeinc-breach-claim-surfaces-weeks-after-february-ransomware-attack"
+    "https://databreach.io/breaches/tektreeinc-breach-claim-surfaces-weeks-after-february-ransomware-attack",
+    "https://databreach.io/breaches/starbucks-confirms-data-breach-affecting-889-employee-accounts",
+    "https://databreach.io/breaches/tldr-tech-newsletter-data-breach-allegedly-exposes-1-2-million-subscribers",
+    "https://databreach.io/breaches/rok-hardware-data-breach-allegedly-exposes-167k-customer-accounts",
+    "https://databreach.io/breaches/alleged-infutor-data-breach-involves-676-million-consumer-records"
   ],
   "url_first_seen": {
     "https://databreach.io": "2026-03-11T14:17:41.098816",
@@ -15,11 +19,15 @@
     "https://databreach.io/breaches/shinyhunters-claims-vertex-inc-data-breach-affecting-2-million-records": "2026-03-11T14:17:41.098816",
     "https://databreach.io/news/stryker-confirms-global-network-disruption-following-iran-linked-cyberattack": "2026-03-13T04:25:43.500130",
     "https://databreach.io/breaches/verifone-denies-breach-following-handala-hack-claims": "2026-03-13T04:25:43.500130",
-    "https://databreach.io/breaches/tektreeinc-breach-claim-surfaces-weeks-after-february-ransomware-attack": "2026-03-13T04:25:43.500130"
+    "https://databreach.io/breaches/tektreeinc-breach-claim-surfaces-weeks-after-february-ransomware-attack": "2026-03-13T04:25:43.500130",
+    "https://databreach.io/breaches/starbucks-confirms-data-breach-affecting-889-employee-accounts": "2026-03-17T04:11:35.396636",
+    "https://databreach.io/breaches/tldr-tech-newsletter-data-breach-allegedly-exposes-1-2-million-subscribers": "2026-03-17T04:11:35.396636",
+    "https://databreach.io/breaches/rok-hardware-data-breach-allegedly-exposes-167k-customer-accounts": "2026-03-17T04:11:35.396636",
+    "https://databreach.io/breaches/alleged-infutor-data-breach-involves-676-million-consumer-records": "2026-03-17T04:11:35.396636"
   },
   "metadata": {
     "created_at": "2026-03-11T14:17:23.912902",
-    "last_updated": "2026-03-13T04:25:43.500137",
-    "total_urls": 7
+    "last_updated": "2026-03-17T04:11:35.396644",
+    "total_urls": 11
   }
 }
