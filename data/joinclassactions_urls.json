@@ -331,7 +331,14 @@
     "https://joinclassactions.com/class_actions/futurhealth-data-breach",
     "https://joinclassactions.com/class_actions/nelson-worldwide-data-breach",
     "https://joinclassactions.com/class_actions/clement-manor-data-breach",
-    "https://joinclassactions.com/class_actions/osi-systems-inc-data-breach"
+    "https://joinclassactions.com/class_actions/osi-systems-inc-data-breach",
+    "https://joinclassactions.com/class_actions/westminster-village-greenwood-data-breach",
+    "https://joinclassactions.com/class_actions/hypertherm-inc-data-breach",
+    "https://joinclassactions.com/class_actions/metrowest-community-fcu-data-breach",
+    "https://joinclassactions.com/class_actions/community-nurse-data-breach",
+    "https://joinclassactions.com/class_actions/earthbound-holding-llc-data-breach",
+    "https://joinclassactions.com/class_actions/commonspirit-health-data-breach-investigation",
+    "https://joinclassactions.com/class_actions/telus-digital-data-breach"
   ],
   "url_first_seen": {
     "https://joinclassactions.com/class_actions/the-john-buck-company-data-breach": "2026-01-15T22:53:41.951463",
@@ -665,11 +672,18 @@
     "https://joinclassactions.com/class_actions/futurhealth-data-breach": "2026-03-17T04:11:35.340466",
     "https://joinclassactions.com/class_actions/nelson-worldwide-data-breach": "2026-03-17T04:11:35.340466",
     "https://joinclassactions.com/class_actions/clement-manor-data-breach": "2026-03-17T04:11:35.340466",
-    "https://joinclassactions.com/class_actions/osi-systems-inc-data-breach": "2026-03-17T04:11:35.340466"
+    "https://joinclassactions.com/class_actions/osi-systems-inc-data-breach": "2026-03-17T04:11:35.340466",
+    "https://joinclassactions.com/class_actions/westminster-village-greenwood-data-breach": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/hypertherm-inc-data-breach": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/metrowest-community-fcu-data-breach": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/community-nurse-data-breach": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/earthbound-holding-llc-data-breach": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/commonspirit-health-data-breach-investigation": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/telus-digital-data-breach": "2026-03-18T04:17:55.404793"
   },
   "metadata": {
     "created_at": "2026-01-15T22:53:41.951463",
-    "last_updated": "2026-03-17T04:11:35.340758",
-    "total_urls": 332
+    "last_updated": "2026-03-18T04:17:55.405095",
+    "total_urls": 339
   }
 }

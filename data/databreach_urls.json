@@ -10,7 +10,14 @@
     "https://databreach.io/breaches/starbucks-confirms-data-breach-affecting-889-employee-accounts",
     "https://databreach.io/breaches/tldr-tech-newsletter-data-breach-allegedly-exposes-1-2-million-subscribers",
     "https://databreach.io/breaches/rok-hardware-data-breach-allegedly-exposes-167k-customer-accounts",
-    "https://databreach.io/breaches/alleged-infutor-data-breach-involves-676-million-consumer-records"
+    "https://databreach.io/breaches/alleged-infutor-data-breach-involves-676-million-consumer-records",
+    "https://databreach.io/breaches/buttonmakers-data-breach-allegedly-exposes-customer-database",
+    "https://databreach.io/breaches/telus-digital-confirms-data-breach-after-1-petabyte-theft-claim",
+    "https://databreach.io/breaches/loblaw-data-breach-exposes-customer-information-in-canada",
+    "https://databreach.io/breaches/michelin-confirms-data-breach-linked-to-oracle-ebs-zero-day-attack",
+    "https://databreach.io/breaches/bell-ambulance-data-breach-affects-238000-individuals",
+    "https://databreach.io/breaches/intuitive-surgical-data-breach-reportedly-affects-healthcare-providers-and-employees",
+    "https://databreach.io/breaches/identity-protection-firm-aura-confirms-data-breach-exposing-900000-records"
   ],
   "url_first_seen": {
     "https://databreach.io": "2026-03-11T14:17:41.098816",
@@ -23,11 +30,18 @@
     "https://databreach.io/breaches/starbucks-confirms-data-breach-affecting-889-employee-accounts": "2026-03-17T04:11:35.396636",
     "https://databreach.io/breaches/tldr-tech-newsletter-data-breach-allegedly-exposes-1-2-million-subscribers": "2026-03-17T04:11:35.396636",
     "https://databreach.io/breaches/rok-hardware-data-breach-allegedly-exposes-167k-customer-accounts": "2026-03-17T04:11:35.396636",
-    "https://databreach.io/breaches/alleged-infutor-data-breach-involves-676-million-consumer-records": "2026-03-17T04:11:35.396636"
+    "https://databreach.io/breaches/alleged-infutor-data-breach-involves-676-million-consumer-records": "2026-03-17T04:11:35.396636",
+    "https://databreach.io/breaches/buttonmakers-data-breach-allegedly-exposes-customer-database": "2026-03-18T04:17:55.461835",
+    "https://databreach.io/breaches/telus-digital-confirms-data-breach-after-1-petabyte-theft-claim": "2026-03-18T04:17:55.461835",
+    "https://databreach.io/breaches/loblaw-data-breach-exposes-customer-information-in-canada": "2026-03-18T04:17:55.461835",
+    "https://databreach.io/breaches/michelin-confirms-data-breach-linked-to-oracle-ebs-zero-day-attack": "2026-03-18T04:17:55.461835",
+    "https://databreach.io/breaches/bell-ambulance-data-breach-affects-238000-individuals": "2026-03-18T04:17:55.461835",
+    "https://databreach.io/breaches/intuitive-surgical-data-breach-reportedly-affects-healthcare-providers-and-employees": "2026-03-19T04:19:20.617815",
+    "https://databreach.io/breaches/identity-protection-firm-aura-confirms-data-breach-exposing-900000-records": "2026-03-19T04:19:20.617815"
   },
   "metadata": {
     "created_at": "2026-03-11T14:17:23.912902",
-    "last_updated": "2026-03-17T04:11:35.396644",
-    "total_urls": 11
+    "last_updated": "2026-03-19T04:19:20.617824",
+    "total_urls": 18
   }
 }
