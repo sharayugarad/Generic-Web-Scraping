@@ -378,7 +378,13 @@
     "https://thecybersecguru.com/glossary/bypass-os-age-verification-laws",
     "https://thecybersecguru.com/news/rockstar-games-brazil-digital-eca-sales-halted",
     "https://thecybersecguru.com/glossary/how-a-computer-boots",
-    "https://thecybersecguru.com/tutorials/building-an-operating-system-from-scratch"
+    "https://thecybersecguru.com/tutorials/building-an-operating-system-from-scratch",
+    "https://thecybersecguru.com/glossary/digital-age-gate-tech-giants-open-source-laws",
+    "https://thecybersecguru.com/glossary/problems-with-online-age-verification",
+    "https://thecybersecguru.com/news/android-developer-verification-sideloading-changes",
+    "https://thecybersecguru.com/news/darksword-spyware-iphone-threat-zero-day",
+    "https://thecybersecguru.com/news/ofcom-fines-4chan-520000",
+    "https://thecybersecguru.com/news/ubuntu-cve-2026-3888"
   ],
   "url_first_seen": {
     "https://thecybersecguru.com/all-posts": "2026-02-09T23:39:10.299750",
@@ -759,11 +765,17 @@
     "https://thecybersecguru.com/glossary/bypass-os-age-verification-laws": "2026-03-18T04:17:55.460236",
     "https://thecybersecguru.com/news/rockstar-games-brazil-digital-eca-sales-halted": "2026-03-18T04:17:55.460236",
     "https://thecybersecguru.com/glossary/how-a-computer-boots": "2026-03-19T04:19:20.617043",
-    "https://thecybersecguru.com/tutorials/building-an-operating-system-from-scratch": "2026-03-19T04:19:20.617043"
+    "https://thecybersecguru.com/tutorials/building-an-operating-system-from-scratch": "2026-03-19T04:19:20.617043",
+    "https://thecybersecguru.com/glossary/digital-age-gate-tech-giants-open-source-laws": "2026-03-20T07:28:07.010889",
+    "https://thecybersecguru.com/glossary/problems-with-online-age-verification": "2026-03-20T07:28:07.010889",
+    "https://thecybersecguru.com/news/android-developer-verification-sideloading-changes": "2026-03-20T07:28:07.010889",
+    "https://thecybersecguru.com/news/darksword-spyware-iphone-threat-zero-day": "2026-03-20T07:28:07.010889",
+    "https://thecybersecguru.com/news/ofcom-fines-4chan-520000": "2026-03-20T07:28:07.010889",
+    "https://thecybersecguru.com/news/ubuntu-cve-2026-3888": "2026-03-20T07:28:07.010889"
   },
   "metadata": {
     "created_at": "2026-02-09T23:39:10.299750",
-    "last_updated": "2026-03-19T04:19:20.617160",
-    "total_urls": 379
+    "last_updated": "2026-03-20T07:28:07.011019",
+    "total_urls": 385
   }
 }

@@ -17,7 +17,11 @@
     "https://databreach.io/breaches/michelin-confirms-data-breach-linked-to-oracle-ebs-zero-day-attack",
     "https://databreach.io/breaches/bell-ambulance-data-breach-affects-238000-individuals",
     "https://databreach.io/breaches/intuitive-surgical-data-breach-reportedly-affects-healthcare-providers-and-employees",
-    "https://databreach.io/breaches/identity-protection-firm-aura-confirms-data-breach-exposing-900000-records"
+    "https://databreach.io/breaches/identity-protection-firm-aura-confirms-data-breach-exposing-900000-records",
+    "https://databreach.io/breaches/bitrefill-data-breach-linked-to-north-koreas-lazarus-group-exposes-18500-records",
+    "https://databreach.io/breaches/kaplan-north-america-data-breach-exposes-173000-records-including-ssns",
+    "https://databreach.io/breaches/berkadia-data-breach-allegedly-exposes-5-million-salesforce-records",
+    "https://databreach.io/breaches/success-magazine-data-breach-allegedly-exposes-141000-subscriber-records"
   ],
   "url_first_seen": {
     "https://databreach.io": "2026-03-11T14:17:41.098816",
@@ -37,11 +41,15 @@
     "https://databreach.io/breaches/michelin-confirms-data-breach-linked-to-oracle-ebs-zero-day-attack": "2026-03-18T04:17:55.461835",
     "https://databreach.io/breaches/bell-ambulance-data-breach-affects-238000-individuals": "2026-03-18T04:17:55.461835",
     "https://databreach.io/breaches/intuitive-surgical-data-breach-reportedly-affects-healthcare-providers-and-employees": "2026-03-19T04:19:20.617815",
-    "https://databreach.io/breaches/identity-protection-firm-aura-confirms-data-breach-exposing-900000-records": "2026-03-19T04:19:20.617815"
+    "https://databreach.io/breaches/identity-protection-firm-aura-confirms-data-breach-exposing-900000-records": "2026-03-19T04:19:20.617815",
+    "https://databreach.io/breaches/bitrefill-data-breach-linked-to-north-koreas-lazarus-group-exposes-18500-records": "2026-03-20T07:28:07.011743",
+    "https://databreach.io/breaches/kaplan-north-america-data-breach-exposes-173000-records-including-ssns": "2026-03-20T07:28:07.011743",
+    "https://databreach.io/breaches/berkadia-data-breach-allegedly-exposes-5-million-salesforce-records": "2026-03-20T07:28:07.011743",
+    "https://databreach.io/breaches/success-magazine-data-breach-allegedly-exposes-141000-subscriber-records": "2026-03-20T07:28:07.011743"
   },
   "metadata": {
     "created_at": "2026-03-11T14:17:23.912902",
-    "last_updated": "2026-03-19T04:19:20.617824",
-    "total_urls": 18
+    "last_updated": "2026-03-20T07:28:07.011755",
+    "total_urls": 22
   }
 }
