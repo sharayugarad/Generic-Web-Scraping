@@ -4217,7 +4217,8 @@
     "https://www.dexpose.io/dragonforce-ransomware-attack-on-gasteiger-design",
     "https://www.dexpose.io/sinobi-strikes-amerinational-management-services",
     "https://www.dexpose.io/sinobi-ransomware-attack-on-elgi-electric-industries",
-    "https://www.dexpose.io/spacebears-strikes-bonheure-in-japan"
+    "https://www.dexpose.io/spacebears-strikes-bonheure-in-japan",
+    "https://www.dexpose.io/deep-web"
   ],
   "url_first_seen": {
     "https://www.dexpose.io/blog": "2026-02-09T23:39:10.299688",
@@ -8437,11 +8438,12 @@
     "https://www.dexpose.io/dragonforce-ransomware-attack-on-gasteiger-design": "2026-03-20T07:28:07.003259",
     "https://www.dexpose.io/sinobi-strikes-amerinational-management-services": "2026-03-20T07:28:07.003259",
     "https://www.dexpose.io/sinobi-ransomware-attack-on-elgi-electric-industries": "2026-03-20T07:28:07.003259",
-    "https://www.dexpose.io/spacebears-strikes-bonheure-in-japan": "2026-03-20T07:28:07.003259"
+    "https://www.dexpose.io/spacebears-strikes-bonheure-in-japan": "2026-03-20T07:28:07.003259",
+    "https://www.dexpose.io/deep-web": "2026-03-23T08:38:46.044134"
   },
   "metadata": {
     "created_at": "2026-02-09T23:39:10.299688",
-    "last_updated": "2026-03-20T07:28:07.004565",
-    "total_urls": 4218
+    "last_updated": "2026-03-23T08:38:46.045373",
+    "total_urls": 4219
   }
 }

@@ -384,7 +384,10 @@
     "https://thecybersecguru.com/news/android-developer-verification-sideloading-changes",
     "https://thecybersecguru.com/news/darksword-spyware-iphone-threat-zero-day",
     "https://thecybersecguru.com/news/ofcom-fines-4chan-520000",
-    "https://thecybersecguru.com/news/ubuntu-cve-2026-3888"
+    "https://thecybersecguru.com/news/ubuntu-cve-2026-3888",
+    "https://thecybersecguru.com/news/crunchyroll-data-breach",
+    "https://thecybersecguru.com/ctf-walkthroughs/mastering-kobold-beginners-guide-from-hackthebox",
+    "https://thecybersecguru.com/tutorials/switch-systemd-to-openrc"
   ],
   "url_first_seen": {
     "https://thecybersecguru.com/all-posts": "2026-02-09T23:39:10.299750",
@@ -771,11 +774,14 @@
     "https://thecybersecguru.com/news/android-developer-verification-sideloading-changes": "2026-03-20T07:28:07.010889",
     "https://thecybersecguru.com/news/darksword-spyware-iphone-threat-zero-day": "2026-03-20T07:28:07.010889",
     "https://thecybersecguru.com/news/ofcom-fines-4chan-520000": "2026-03-20T07:28:07.010889",
-    "https://thecybersecguru.com/news/ubuntu-cve-2026-3888": "2026-03-20T07:28:07.010889"
+    "https://thecybersecguru.com/news/ubuntu-cve-2026-3888": "2026-03-20T07:28:07.010889",
+    "https://thecybersecguru.com/news/crunchyroll-data-breach": "2026-03-23T08:38:46.051535",
+    "https://thecybersecguru.com/ctf-walkthroughs/mastering-kobold-beginners-guide-from-hackthebox": "2026-03-23T08:38:46.051535",
+    "https://thecybersecguru.com/tutorials/switch-systemd-to-openrc": "2026-03-23T08:38:46.051535"
   },
   "metadata": {
     "created_at": "2026-02-09T23:39:10.299750",
-    "last_updated": "2026-03-20T07:28:07.011019",
-    "total_urls": 385
+    "last_updated": "2026-03-23T08:38:46.051654",
+    "total_urls": 388
   }
 }

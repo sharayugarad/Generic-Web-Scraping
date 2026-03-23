@@ -338,7 +338,18 @@
     "https://joinclassactions.com/class_actions/community-nurse-data-breach",
     "https://joinclassactions.com/class_actions/earthbound-holding-llc-data-breach",
     "https://joinclassactions.com/class_actions/commonspirit-health-data-breach-investigation",
-    "https://joinclassactions.com/class_actions/telus-digital-data-breach"
+    "https://joinclassactions.com/class_actions/telus-digital-data-breach",
+    "https://joinclassactions.com/class_actions/charlottesville-settlement-company-data-breach",
+    "https://joinclassactions.com/class_actions/vantage-plastic-surgery-data-breach",
+    "https://joinclassactions.com/class_actions/conrad-capital-management-data-breach",
+    "https://joinclassactions.com/class_actions/greenhouse-apartments-data-breach",
+    "https://joinclassactions.com/class_actions/deaconess-health-system-data-breach",
+    "https://joinclassactions.com/class_actions/pinnacle-tax-inc-data-breach",
+    "https://joinclassactions.com/class_actions/onset-financial-data-breach",
+    "https://joinclassactions.com/class_actions/medpeds-associates-of-sarasota-data-breach",
+    "https://joinclassactions.com/class_actions/one-source-medical-group-data-breach",
+    "https://joinclassactions.com/class_actions/woundtech-data-breach-data-breach",
+    "https://joinclassactions.com/class_actions/credit-freedom-and-restoration-data-breach"
   ],
   "url_first_seen": {
     "https://joinclassactions.com/class_actions/the-john-buck-company-data-breach": "2026-01-15T22:53:41.951463",
@@ -679,11 +690,22 @@
     "https://joinclassactions.com/class_actions/community-nurse-data-breach": "2026-03-18T04:17:55.404793",
     "https://joinclassactions.com/class_actions/earthbound-holding-llc-data-breach": "2026-03-18T04:17:55.404793",
     "https://joinclassactions.com/class_actions/commonspirit-health-data-breach-investigation": "2026-03-18T04:17:55.404793",
-    "https://joinclassactions.com/class_actions/telus-digital-data-breach": "2026-03-18T04:17:55.404793"
+    "https://joinclassactions.com/class_actions/telus-digital-data-breach": "2026-03-18T04:17:55.404793",
+    "https://joinclassactions.com/class_actions/charlottesville-settlement-company-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/vantage-plastic-surgery-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/conrad-capital-management-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/greenhouse-apartments-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/deaconess-health-system-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/pinnacle-tax-inc-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/onset-financial-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/medpeds-associates-of-sarasota-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/one-source-medical-group-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/woundtech-data-breach-data-breach": "2026-03-23T08:38:45.992947",
+    "https://joinclassactions.com/class_actions/credit-freedom-and-restoration-data-breach": "2026-03-23T08:38:45.992947"
   },
   "metadata": {
     "created_at": "2026-01-15T22:53:41.951463",
-    "last_updated": "2026-03-18T04:17:55.405095",
-    "total_urls": 339
+    "last_updated": "2026-03-23T08:38:45.993121",
+    "total_urls": 350
   }
 }
