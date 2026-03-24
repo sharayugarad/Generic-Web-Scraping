@@ -21,7 +21,14 @@
     "https://databreach.io/breaches/bitrefill-data-breach-linked-to-north-koreas-lazarus-group-exposes-18500-records",
     "https://databreach.io/breaches/kaplan-north-america-data-breach-exposes-173000-records-including-ssns",
     "https://databreach.io/breaches/berkadia-data-breach-allegedly-exposes-5-million-salesforce-records",
-    "https://databreach.io/breaches/success-magazine-data-breach-allegedly-exposes-141000-subscriber-records"
+    "https://databreach.io/breaches/success-magazine-data-breach-allegedly-exposes-141000-subscriber-records",
+    "https://databreach.io/breaches/healthcare-com-data-breach-allegedly-exposes-2-million-records",
+    "https://databreach.io/breaches/ameriprise-financial-data-breach-claim-involves-salesforce-and-sharepoint-data",
+    "https://databreach.io/breaches/infinite-campus-data-breach-claim-involves-student-information-system-data",
+    "https://databreach.io/breaches/heritage-bank-discloses-march-data-breach-affecting-customer-and-employee-records",
+    "https://databreach.io/breaches/crunchyroll-reportedly-breached-via-telus-partner-100gb-of-user-data-allegedly-stolen",
+    "https://databreach.io/breaches/lapsus-group-claims-astrazeneca-breach-leaks-3gb-of-source-code-and-cloud-configurations",
+    "https://databreach.io/breaches/ovhcloud-data-breach-allegedly-exposes-1-6-million-customers-and-5-9-million-hosted-websites"
   ],
   "url_first_seen": {
     "https://databreach.io": "2026-03-11T14:17:41.098816",
@@ -45,11 +52,18 @@
     "https://databreach.io/breaches/bitrefill-data-breach-linked-to-north-koreas-lazarus-group-exposes-18500-records": "2026-03-20T07:28:07.011743",
     "https://databreach.io/breaches/kaplan-north-america-data-breach-exposes-173000-records-including-ssns": "2026-03-20T07:28:07.011743",
     "https://databreach.io/breaches/berkadia-data-breach-allegedly-exposes-5-million-salesforce-records": "2026-03-20T07:28:07.011743",
-    "https://databreach.io/breaches/success-magazine-data-breach-allegedly-exposes-141000-subscriber-records": "2026-03-20T07:28:07.011743"
+    "https://databreach.io/breaches/success-magazine-data-breach-allegedly-exposes-141000-subscriber-records": "2026-03-20T07:28:07.011743",
+    "https://databreach.io/breaches/healthcare-com-data-breach-allegedly-exposes-2-million-records": "2026-03-24T07:46:13.725924",
+    "https://databreach.io/breaches/ameriprise-financial-data-breach-claim-involves-salesforce-and-sharepoint-data": "2026-03-24T07:46:13.725924",
+    "https://databreach.io/breaches/infinite-campus-data-breach-claim-involves-student-information-system-data": "2026-03-24T07:46:13.725924",
+    "https://databreach.io/breaches/heritage-bank-discloses-march-data-breach-affecting-customer-and-employee-records": "2026-03-24T07:46:13.725924",
+    "https://databreach.io/breaches/crunchyroll-reportedly-breached-via-telus-partner-100gb-of-user-data-allegedly-stolen": "2026-03-24T07:46:13.725924",
+    "https://databreach.io/breaches/lapsus-group-claims-astrazeneca-breach-leaks-3gb-of-source-code-and-cloud-configurations": "2026-03-24T07:46:13.725924",
+    "https://databreach.io/breaches/ovhcloud-data-breach-allegedly-exposes-1-6-million-customers-and-5-9-million-hosted-websites": "2026-03-24T07:46:13.725924"
   },
   "metadata": {
     "created_at": "2026-03-11T14:17:23.912902",
-    "last_updated": "2026-03-20T07:28:07.011755",
-    "total_urls": 22
+    "last_updated": "2026-03-24T07:46:13.725937",
+    "total_urls": 29
   }
 }
