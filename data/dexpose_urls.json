@@ -4302,7 +4302,27 @@
     "https://www.dexpose.io/qilin-ransomware-attack-on-virtualexpo-group-disrupts-french-operations",
     "https://www.dexpose.io/akira-ransomware-strikes-dutch-organization-madesmart",
     "https://www.dexpose.io/dragonforce-targets-south-african-insurer-the-unlimited",
-    "https://www.dexpose.io/akira-ransomware-group-targets-it-services-firm-savvy-hawk"
+    "https://www.dexpose.io/akira-ransomware-group-targets-it-services-firm-savvy-hawk",
+    "https://www.dexpose.io/best-dark-web-browsers",
+    "https://www.dexpose.io/akira-ransomware-strikes-dixon-electrical-systems-contracting",
+    "https://www.dexpose.io/thegentlemen-ransomware-attack-on-distritech-llc",
+    "https://www.dexpose.io/thegentlemen-ransomware-attack-on-omikenshi-co-ltd",
+    "https://www.dexpose.io/the-gentlemen-ransomware-attack-on-grupo-tawa",
+    "https://www.dexpose.io/thegentlemen-ransomware-attack-on-delta-ducon-engenharia",
+    "https://www.dexpose.io/akira-ransomware-targets-romanian-logistics-firm-autitransa-s-l",
+    "https://www.dexpose.io/akira-ransomware-strikes-schmiede-corporation",
+    "https://www.dexpose.io/worldleaks-hits-marion-military-institute",
+    "https://www.dexpose.io/osiris-ransomware-targets-mantra-softech-pvt",
+    "https://www.dexpose.io/akira-ransomware-targets-spanish-auto-dealer-rioja-motor",
+    "https://www.dexpose.io/akira-ransomware-strikes-german-media-agency-conceptnet-gmbh",
+    "https://www.dexpose.io/akira-ransomware-targets-nafco-seafood-innovator",
+    "https://www.dexpose.io/insomnia-breaches-atlas-ocean-voyages",
+    "https://www.dexpose.io/qilin-ransomware-targets-french-manufacturer-groupe-sfpi",
+    "https://www.dexpose.io/exitium-ransomware-targets-brazilian-agroindustry-giant-marborges",
+    "https://www.dexpose.io/payload-ransomware-attack-on-igls-laboratory-in-spain",
+    "https://www.dexpose.io/incransom-targets-steel-wire-leader-kiswire-ltd",
+    "https://www.dexpose.io/crypto24-targets-renowned-argentine-law-firm-estudio-ofarrell",
+    "https://www.dexpose.io/lockbit-5-0-strikes-flamagas-india-pvt-ltd"
   ],
   "url_first_seen": {
     "https://www.dexpose.io/blog": "2026-02-09T23:39:10.299688",
@@ -8607,11 +8627,31 @@
     "https://www.dexpose.io/qilin-ransomware-attack-on-virtualexpo-group-disrupts-french-operations": "2026-03-24T07:46:13.716989",
     "https://www.dexpose.io/akira-ransomware-strikes-dutch-organization-madesmart": "2026-03-24T07:46:13.716989",
     "https://www.dexpose.io/dragonforce-targets-south-african-insurer-the-unlimited": "2026-03-24T07:46:13.716989",
-    "https://www.dexpose.io/akira-ransomware-group-targets-it-services-firm-savvy-hawk": "2026-03-24T07:46:13.716989"
+    "https://www.dexpose.io/akira-ransomware-group-targets-it-services-firm-savvy-hawk": "2026-03-24T07:46:13.716989",
+    "https://www.dexpose.io/best-dark-web-browsers": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/akira-ransomware-strikes-dixon-electrical-systems-contracting": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/thegentlemen-ransomware-attack-on-distritech-llc": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/thegentlemen-ransomware-attack-on-omikenshi-co-ltd": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/the-gentlemen-ransomware-attack-on-grupo-tawa": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/thegentlemen-ransomware-attack-on-delta-ducon-engenharia": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/akira-ransomware-targets-romanian-logistics-firm-autitransa-s-l": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/akira-ransomware-strikes-schmiede-corporation": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/worldleaks-hits-marion-military-institute": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/osiris-ransomware-targets-mantra-softech-pvt": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/akira-ransomware-targets-spanish-auto-dealer-rioja-motor": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/akira-ransomware-strikes-german-media-agency-conceptnet-gmbh": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/akira-ransomware-targets-nafco-seafood-innovator": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/insomnia-breaches-atlas-ocean-voyages": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/qilin-ransomware-targets-french-manufacturer-groupe-sfpi": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/exitium-ransomware-targets-brazilian-agroindustry-giant-marborges": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/payload-ransomware-attack-on-igls-laboratory-in-spain": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/incransom-targets-steel-wire-leader-kiswire-ltd": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/crypto24-targets-renowned-argentine-law-firm-estudio-ofarrell": "2026-03-25T07:08:00.318470",
+    "https://www.dexpose.io/lockbit-5-0-strikes-flamagas-india-pvt-ltd": "2026-03-25T07:08:00.318470"
   },
   "metadata": {
     "created_at": "2026-02-09T23:39:10.299688",
-    "last_updated": "2026-03-24T07:46:13.718287",
-    "total_urls": 4303
+    "last_updated": "2026-03-25T07:08:00.319805",
+    "total_urls": 4323
   }
 }
