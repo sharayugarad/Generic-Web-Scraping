@@ -34,7 +34,12 @@
     "https://databreach.io/breaches/calea-data-breach-allegedly-exposes-law-enforcement-agency-information",
     "https://databreach.io/breaches/checkmarx-confirms-supply-chain-breach-targeting-github-actions-workflows",
     "https://databreach.io/breaches/hackerone-discloses-employee-data-breach-through-third-party-benefits-provider",
-    "https://databreach.io/breaches/editgpt-data-breach-allegedly-exposes-284000-user-records"
+    "https://databreach.io/breaches/editgpt-data-breach-allegedly-exposes-284000-user-records",
+    "https://databreach.io/breaches/duffys-sports-grill-allegedly-hit-by-qilin-ransomware-after-7-day-payment-outage",
+    "https://databreach.io/breaches/parkway-realty-group-data-breach-allegedly-exposes-85-gb-of-sensitive-documents",
+    "https://databreach.io/news/litellm-ai-gateway-hit-by-supply-chain-attack-targeting-developer-credentials",
+    "https://databreach.io/breaches/hightower-advisors-discloses-data-breach-affecting-131483-wealth-management-clients",
+    "https://databreach.io/breaches/qualderm-partners-discloses-data-breach-affecting-3-1-million-dermatology-patients"
   ],
   "url_first_seen": {
     "https://databreach.io": "2026-03-11T14:17:41.098816",
@@ -71,11 +76,16 @@
     "https://databreach.io/breaches/calea-data-breach-allegedly-exposes-law-enforcement-agency-information": "2026-03-25T07:08:00.327307",
     "https://databreach.io/breaches/checkmarx-confirms-supply-chain-breach-targeting-github-actions-workflows": "2026-03-25T07:08:00.327307",
     "https://databreach.io/breaches/hackerone-discloses-employee-data-breach-through-third-party-benefits-provider": "2026-03-25T07:08:00.327307",
-    "https://databreach.io/breaches/editgpt-data-breach-allegedly-exposes-284000-user-records": "2026-03-25T07:08:00.327307"
+    "https://databreach.io/breaches/editgpt-data-breach-allegedly-exposes-284000-user-records": "2026-03-25T07:08:00.327307",
+    "https://databreach.io/breaches/duffys-sports-grill-allegedly-hit-by-qilin-ransomware-after-7-day-payment-outage": "2026-03-26T07:44:54.404034",
+    "https://databreach.io/breaches/parkway-realty-group-data-breach-allegedly-exposes-85-gb-of-sensitive-documents": "2026-03-26T07:44:54.404034",
+    "https://databreach.io/news/litellm-ai-gateway-hit-by-supply-chain-attack-targeting-developer-credentials": "2026-03-26T07:44:54.404034",
+    "https://databreach.io/breaches/hightower-advisors-discloses-data-breach-affecting-131483-wealth-management-clients": "2026-03-26T07:44:54.404034",
+    "https://databreach.io/breaches/qualderm-partners-discloses-data-breach-affecting-3-1-million-dermatology-patients": "2026-03-26T07:44:54.404034"
   },
   "metadata": {
     "created_at": "2026-03-11T14:17:23.912902",
-    "last_updated": "2026-03-25T07:08:00.327326",
-    "total_urls": 35
+    "last_updated": "2026-03-26T07:44:54.404051",
+    "total_urls": 40
   }
 }

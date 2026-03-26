@@ -391,7 +391,9 @@
     "https://thecybersecguru.com/news/ovhcloud-data-breach-2026",
     "https://thecybersecguru.com/news/2026-iran-war-complete-cyber-attack-timeline",
     "https://thecybersecguru.com/news/teampcp-supply-chain-attack",
-    "https://thecybersecguru.com/news/hackerone-data-breach-navia-solutions"
+    "https://thecybersecguru.com/news/hackerone-data-breach-navia-solutions",
+    "https://thecybersecguru.com/news/litellm-supply-chain-attack",
+    "https://thecybersecguru.com/news/unitedhealth-group-data-breach-florida-2026"
   ],
   "url_first_seen": {
     "https://thecybersecguru.com/all-posts": "2026-02-09T23:39:10.299750",
@@ -785,11 +787,13 @@
     "https://thecybersecguru.com/news/ovhcloud-data-breach-2026": "2026-03-24T07:46:13.724992",
     "https://thecybersecguru.com/news/2026-iran-war-complete-cyber-attack-timeline": "2026-03-24T07:46:13.724992",
     "https://thecybersecguru.com/news/teampcp-supply-chain-attack": "2026-03-25T07:08:00.326315",
-    "https://thecybersecguru.com/news/hackerone-data-breach-navia-solutions": "2026-03-25T07:08:00.326315"
+    "https://thecybersecguru.com/news/hackerone-data-breach-navia-solutions": "2026-03-25T07:08:00.326315",
+    "https://thecybersecguru.com/news/litellm-supply-chain-attack": "2026-03-26T07:44:54.402472",
+    "https://thecybersecguru.com/news/unitedhealth-group-data-breach-florida-2026": "2026-03-26T07:44:54.402472"
   },
   "metadata": {
     "created_at": "2026-02-09T23:39:10.299750",
-    "last_updated": "2026-03-25T07:08:00.326460",
-    "total_urls": 392
+    "last_updated": "2026-03-26T07:44:54.402597",
+    "total_urls": 394
   }
 }
